@@ -7,7 +7,7 @@ values
   'Crime, Drama',
   'TV Show',
   2008,
-  'https://images.unsplash.com/photo-1760954185892-86d343ae2433?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'
 ),
 (
   'The GodFather',
@@ -15,7 +15,7 @@ values
   'Crime, Drama',
   'Movie',
   1972,
-  'https://images.unsplash.com/photo-1695414303331-a386edd9d844?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg'
 ),
 (
   'Home Alone',
@@ -23,7 +23,7 @@ values
   'Comedy, Family',
   'Movie',
   1990,
-  'https://images.unsplash.com/photo-1662252900927-8e01eddba22a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://lumiere-a.akamaihd.net/v1/images/image_ed8d7a4e.jpeg?region=0%2C0%2C800%2C1200'
 ),
 (
   'The Sopranos',
@@ -31,7 +31,7 @@ values
   'Crime, Drama',
   'TV Show',
   1999,
-  'https://images.unsplash.com/photo-1580624060660-db6ca6498817?q=80&w=982&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://media.gq.com/photos/5eb2cdfe8ed19ecbcd23cbd5/16:9/w_2560%2Cc_limit/Why-The-Sopranos-Is-the-Hottest-Show-of-2020-gq-may-2020.jpg'
 ),
 (
   'Game of Thrones',
@@ -39,7 +39,7 @@ values
   'Fantasy, Drama',
   'TV Show',
   2011,
-  'https://images.unsplash.com/photo-1577493340887-b7bfff550145?q=80&w=340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://i.guim.co.uk/img/media/a2e250caa55b53ff9f20ef9b51da3d5845e0d29a/269_89_1651_991/master/1651.jpg?width=465&dpr=1&s=none&crop=none'
 ),
 (
   'Forrest Gump',
@@ -47,7 +47,7 @@ values
   'Drama, Romance',
   'Movie',
   1994,
-  'https://plus.unsplash.com/premium_photo-1700391547713-ee7ec2838fd1?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQbFwIIG9IcyVOjk09wjuZwFdj1_UJh-XcItw1_rtLpoiPBLEQyJoAP0XV&s=10'
 ),
 (
   'Interstellar',
@@ -55,7 +55,7 @@ values
   'Science Fiction, Adventure',
   'Movie',
   2014,
-  'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500'
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5z_n149Vgn_LxZDdpjVrLp7-30MvOM79kKS2CRrvFI_2scCIpMVSzI8B&s=10'
 ),
 (
   'The Twilight Zone',
@@ -63,7 +63,7 @@ values
   'Science Fiction, Horror',
   'TV Show',
   1959,
-  'https://images.unsplash.com/photo-1588594276800-2de0522b3b73?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'
+  'https://m.media-amazon.com/images/M/MV5BYjkyZmRmYmMtYTg5Zi00MjA0LTliYmQtMDU0NzBiZDcxNzA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'
 ),
 (
   'Rick and Morty',
@@ -79,5 +79,5 @@ values
   'Comedy',
   'TV Show',
   2005,
-  'https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=500'
+  'https://i.guim.co.uk/img/media/cf4673cd6b58544232fcec48428ae40b8951a461/186_255_1849_1109/master/1849.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5e9b07f42650b7cb074801ec867291a3'
 );
