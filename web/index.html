@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Spinoffs</title>
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+        <script src="config.js" defer></script>
+        <script src="interests.js" defer></script>
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <img src="movie.png" alt="Movie Clipart" class="portrait">
+            <div>
+                <h1>Movies and TV Shows</h1>
+                <p>Our collection of Movies and TV Shows.</p>
+            </div>
+        </header>
+
+        <main>
+            <section class="interests-section">
+                <h2>Our Selections</h2>
+                <p>These items come from our Supabase database. Select an item to read more about it.</p>
+                <p id="showcase-status" role="status">Waiting to load...</p>
+                <button id="showcase-refresh" type="button">Refresh</button>
+                <div id="showcase-grid"></div>
+                <p id="showcase-count"></p>
+            </section>
+        </main>
+        <footer>
+            <ul>
+                <p>&copy; <span id="year"></span> Spinoffs</p>
+            </ul>
+            <ul>
+                <a href="https://github.com/dzemal5/CSC441-Spinoffs.git" target="_blank" rel="noopener">GitHub</a>
+            </ul>
+        </footer>
+    </body>
+    
+</html>
